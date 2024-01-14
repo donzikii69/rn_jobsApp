@@ -8,7 +8,10 @@ import useFetch from "../../../hook/useFetch";
 
 const NearbyJobs = () => {
   const router = useRouter();
-  const { data, isLoading, error } = useFetch("search");
+  const { data, isLoading, error } = useFetch("search", {
+    query: "React Native developer",
+    num_pages: "1",
+  });
 
   return (
     <View style={styles.container}>
