@@ -10,6 +10,14 @@ This Simple Mobile Apps, About Job Hunting for Job Seeker , i build for my learn
 
 <br>
 
+https://github.com/zikran69/rn_jobsApp/assets/108022748/f2101fcb-3cc9-4b26-a2ea-25c14b050ec2
+
+
+https://github.com/zikran69/rn_jobsApp/assets/108022748/989141c2-233c-4d05-ae6e-73482023fd9a
+
+
+
+
 ## Tech Stack :
 
 <br>
